@@ -98,9 +98,8 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/alejandro-castrill%C3%B3n-g%C3%B3mez-15052b324/"/></a>
-  <a href="https://www.instagram.com/_xlejoo_cg_/"/></a>
-  <a href="https://discord.com/channels/@me"/></a>
+  <a href="www.linkedin.com/in/alejandro-castrillón-gómez"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_xlejoo_cg_/?next=%2F#"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:alejomi192005@gmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
